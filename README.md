@@ -27,7 +27,7 @@ Cada repositório representa uma etapa da minha jornada de aprendizado e será a
 
 ---
 
-*"A melhor forma de aprender é construindo."*## Hi there 👋
+*"A melhor forma de aprender é construindo."*
 
 <!--
 **gleicemiranda/gleicemiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
